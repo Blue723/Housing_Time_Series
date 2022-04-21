@@ -1,4 +1,4 @@
-# Houston Housing Investment 
+# Houston Housing Price Prediction Models
 
 ![Houston](img/houston_skyline.jfif)
 
